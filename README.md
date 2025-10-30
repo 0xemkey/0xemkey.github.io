@@ -190,9 +190,9 @@
           <li><p><a href="https://fintables.com/arastirma/yazilar/kripto-varliklar/yapay-zeka-paranizdan-para-kazanmanizi-saglayabilir-mi" target="_blank" style="font-style: italic">Yapay Zeka Paranızdan Para Kazanmanızı Sağlayabilir mi?</a></p></li>
           <li><p><a href="https://fintables.com/arastirma/yazilar/kripto-varliklar/kripto-odeme-sistemlerinde-son-surat-yaris" target="_blank" style="font-style: italic">Kripto Ödemelerinde Son Sürat Yarış</a></p></li>
           <li><p><a href="https://fintables.com/arastirma/yazilar/kripto-varliklar/bitcoin-katman-2-c%C3%B6z%C3%BCmleri" target="_blank" style="font-style: italic">Bitcoin Katman-2’leri</a></p></li>
-          <li><p><a href="https://x.com/FintablesKripto/status/1953889209321664643" target="_blank" style="font-style: italic">Fintables Kripto Post #1</a></p></li>
-          <li><p><a href="https://x.com/FintablesKripto/status/1929584173636796669" target="_blank" style="font-style: italic">Fintables Kripto Post #2</a></p></li>
-          <li><p><a href="https://x.com/FintablesKripto/status/1932806724127277057" target="_blank" style="font-style: italic">Fintables Kripto Post #3</a></p></li>
+          <li><p><a href="https://x.com/FintablesKripto/status/1953889209321664643" target="_blank" style="font-style: italic">Pendle Boros</a></p></li>
+          <li><p><a href="https://x.com/FintablesKripto/status/1929584173636796669" target="_blank" style="font-style: italic">Pendle Strategy</a></p></li>
+          <li><p><a href="https://x.com/FintablesKripto/status/1932806724127277057" target="_blank" style="font-style: italic">Onchain Adaptation</a></p></li>
         </ul>
       </div>
     </div>
