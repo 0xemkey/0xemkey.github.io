@@ -8,11 +8,11 @@
   <title>Mehmet</title>
   <style>
     body {
-      font-family: "Space Grotesk";
+      font-family: "Space Grotesk", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #ffffff;
-      color: #0f2831;
+      background-color: #000000;
+      color: #e6f1f5;
       font-size: 22px;
       text-align: left;
     }
@@ -49,7 +49,7 @@
     }
 
     .info a {
-      color: #0000ee;
+      color: #8ab4ff;
       text-decoration: none;
     }
 
