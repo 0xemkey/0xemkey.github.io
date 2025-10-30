@@ -116,14 +116,6 @@
       </div>
     </div>
 
-    <div class="section" id="profile">
-      <h2>Profile</h2>
-      <div class="info">
-        <p><strong>[X]:</strong> <a href="https://x.com/0xemkey" target="_blank">https://x.com/0xemkey</a></p>
-        <p><strong>[Telegram]:</strong> <a href="https://t.me/emkey0x" target="_blank">https://t.me/emkey0x</a></p>
-      </div>
-    </div>
-
     <div class="section" id="data-analysis">
       <h2>Data Analysis</h2>
       <div class="info">
