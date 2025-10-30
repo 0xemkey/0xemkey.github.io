@@ -146,6 +146,16 @@
       </div>
     </div>
 
+    <!-- NEW: Live as its own top-level section -->
+    <div class="section" id="live">
+      <h2>Live</h2>
+      <div class="info">
+        <ul>
+          <li><p><a href="https://youtu.be/5jt40feF41I?si=N7luonN_oA-oZCOz" target="_blank" style="font-style: italic">Otopsi #8 - Bybit ve Safe{Wallet} Saldırısı</a></p></li>
+        </ul>
+      </div>
+    </div>
+
     <div class="section" id="articles">
       <h2>Articles</h2>
 
@@ -163,13 +173,6 @@
         <ul>
           <li><p><a href="https://medium.com/@0xemkey/off-chain-computation-in-mina-and-ethereum-4f243d38c606" target="_blank" style="font-style: italic">Off Chain Computation and Mina</a></p></li>
           <li><p><a href="https://medium.com/@0xemkey/web-1-2-3-and-mina-88e4b8661200" target="_blank" style="font-style: italic">Web3.0 and Mina</a></p></li>
-        </ul>
-      </div>
-
-      <h3>[TR] Live</h3>
-      <div class="info">
-        <ul>
-          <li><p><a href="https://youtu.be/5jt40feF41I?si=N7luonN_oA-oZCOz" target="_blank" style="font-style: italic">Otopsi #8 - Bybit ve Safe{Wallet} Saldırısı</a></p></li>
         </ul>
       </div>
 
