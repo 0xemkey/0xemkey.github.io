@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -113,6 +112,8 @@
         <p>I am Mehmet from Istanbul. I started investing in crypto 5 years ago and have been conducting research for the last 4 years. I have shared some of my content on my Medium account. Additionally, I am a senior mechanical engineering student. My final project is related to physical AI. Nowadays, I research blockchain, data, ML, and AI, improving my Python and SQL skills. You can contact me via:</p>
         <p><strong>Telegram:</strong> <a href="https://t.me/emkey0x" target="_blank">@emkey0x</a></p>
         <p><strong>X:</strong> <a href="https://x.com/0xemkey" target="_blank">@0xemkey</a></p>
+         <p><strong>Medium:</strong> <a href="https://medium.com/@0xemkey" target="_blank">@emkey0x</a></p>
+          <p><strong>Substack:</strong> <a href="https://substack.com/@0xemkey" target="_blank">@emkey0x</a></p>
       </div>
     </div>
 
